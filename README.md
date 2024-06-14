@@ -13,7 +13,8 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
-# 🎉 Winter 2025 Applications
+# 🎉 Winter 2025 Applications 
+
 
 | Name | Location | Application Status | Notes | Date Posted |
 | ---- | -------- | ----------------- | ----- | ----------- |
