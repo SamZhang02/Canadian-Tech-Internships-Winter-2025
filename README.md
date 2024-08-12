@@ -17,4 +17,4 @@ To contribute:
 
 | Name | Location | Application Status | Notes | Date Posted |
 | ---- | -------- | ----------------- | ----- | ----------- |
-| [Company Name](Application Link) |Location | Application Status | Position Title/ Other Information | Date Posted |
+| [EA Sports](https://ea.gr8people.com/jobs/185077/software-engineer-winter-co-op-internship?sid=4) | Vancouver | Open | Software Engineer Winter Co-op / Internship | 
