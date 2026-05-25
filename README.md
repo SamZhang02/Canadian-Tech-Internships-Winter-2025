@@ -13,6 +13,10 @@ To contribute:
 
 > 💡 Want more help? Check out the `CONTRIBUTING.md` document for more information on how to contribute
 
+## Related current resources
+
+- [Hanzilla Jobs](https://jobs.hanzilla.co/internships/) - Free, daily-updated Canadian student/recent-grad jobs board covering internships, co-ops, new-grad, junior, and entry-level roles across tech, data, finance, engineering, business, and sciences.
+
 # 🎉 Winter 2025 Applications
 
 | Name | Location | Application Status | Notes | Date Posted |
